@@ -8,6 +8,7 @@ module.exports = {
       options: {
         url: "https://8vs.15f.myftpupload.com/graphql",
       },
+      url:"https://8vs.15f.myftpupload.com/"
     },
     "gatsby-plugin-gatsby-cloud",
     "gatsby-plugin-image",
